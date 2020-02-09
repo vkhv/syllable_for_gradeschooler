@@ -62,7 +62,8 @@ const StudyPlate = ({syllable}) => {
 }
 
 const generateSyllables = (syllable) => {
-    const firstLetter = syllable[0];
+    const secondLetter = syllable[1];
     const arrayLetter = ['а', 'о', 'э', 'ю', 'и', 'ы', 'я'];
-    return  [ syllable, ...sampleSize(arrayLetter, 3).map(letter => firstLetter + letter)]
+    const kickMainSyllable = arrayLetter.filter(l => l !== syllable[0])
+    return  [syllable, ...sampleSize(kickMainSyllable, 3).map(letterFromArray =>  letterFromArray + secondLetter)]
 }
