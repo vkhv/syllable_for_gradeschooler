@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/syllable_for_gradeschooler/static/css/main.9faac7db.chunk.css",
-    "main.js": "/syllable_for_gradeschooler/static/js/main.1a1d430c.chunk.js",
-    "main.js.map": "/syllable_for_gradeschooler/static/js/main.1a1d430c.chunk.js.map",
+    "main.js": "/syllable_for_gradeschooler/static/js/main.9f6b7912.chunk.js",
+    "main.js.map": "/syllable_for_gradeschooler/static/js/main.9f6b7912.chunk.js.map",
     "runtime-main.js": "/syllable_for_gradeschooler/static/js/runtime-main.ae6db052.js",
     "runtime-main.js.map": "/syllable_for_gradeschooler/static/js/runtime-main.ae6db052.js.map",
     "static/js/2.7a3881d5.chunk.js": "/syllable_for_gradeschooler/static/js/2.7a3881d5.chunk.js",
     "static/js/2.7a3881d5.chunk.js.map": "/syllable_for_gradeschooler/static/js/2.7a3881d5.chunk.js.map",
     "index.html": "/syllable_for_gradeschooler/index.html",
-    "precache-manifest.1e18192ca3e7d3d28935c08850150af5.js": "/syllable_for_gradeschooler/precache-manifest.1e18192ca3e7d3d28935c08850150af5.js",
+    "precache-manifest.04c8e26bdad9d1f463ca85f8e3d1e172.js": "/syllable_for_gradeschooler/precache-manifest.04c8e26bdad9d1f463ca85f8e3d1e172.js",
     "service-worker.js": "/syllable_for_gradeschooler/service-worker.js",
     "static/css/main.9faac7db.chunk.css.map": "/syllable_for_gradeschooler/static/css/main.9faac7db.chunk.css.map",
     "static/js/2.7a3881d5.chunk.js.LICENSE.txt": "/syllable_for_gradeschooler/static/js/2.7a3881d5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ae6db052.js",
     "static/js/2.7a3881d5.chunk.js",
     "static/css/main.9faac7db.chunk.css",
-    "static/js/main.1a1d430c.chunk.js"
+    "static/js/main.9f6b7912.chunk.js"
   ]
 }
