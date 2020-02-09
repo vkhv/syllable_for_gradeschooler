@@ -48,7 +48,7 @@ const StudyPlate = ({syllable}) => {
                 if (syllable === syll) {
                     return setResult(result + 1)
                 }
-                setFails(fails + 1)
+                return setFails(fails + 1)
             }}>{syll}</div> ) }
         </div>
         {
