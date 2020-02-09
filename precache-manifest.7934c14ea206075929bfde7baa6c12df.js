@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e931b2a05fb2187346a226965030db09",
+    "revision": "e6f481493a3428ad3cb6186d9f973fb8",
     "url": "/syllable_for_gradeschooler/index.html"
   },
   {
-    "revision": "17c3baef20315566fee7",
+    "revision": "dd0cb7102cbb71f97a61",
     "url": "/syllable_for_gradeschooler/static/css/main.9faac7db.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/syllable_for_gradeschooler/static/js/2.7a3881d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "17c3baef20315566fee7",
-    "url": "/syllable_for_gradeschooler/static/js/main.e5b7c2d4.chunk.js"
+    "revision": "dd0cb7102cbb71f97a61",
+    "url": "/syllable_for_gradeschooler/static/js/main.8ebf49d3.chunk.js"
   },
   {
     "revision": "742a4c9dfa49899c382a",
