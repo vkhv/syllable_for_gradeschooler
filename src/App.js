@@ -44,8 +44,12 @@ const StudyPlate = ({syllable}) => {
         </div>
 
         <div style={{display: 'flex'}}>
-            {sampleSize(generateSyllables(syllable), 4).map(syll => <div className="c-form__toggle-2" key={syll} onClick={() => {
+            {sampleSize(generateSyllables(syllable), 4).map(syll => <div className="c-form__toggle-2" key={syll} onClick={async () => {
+                await speechSynthesis.speak(
+                    new SpeechSynthesisUtterance(syll)
+                );
                 if (syllable === syll) {
+
                     return setResult(result + 1)
                 }
                 return setFails(fails + 1)
