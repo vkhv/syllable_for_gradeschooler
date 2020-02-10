@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/syllable_for_gradeschooler/precache-manifest.7934c14ea206075929bfde7baa6c12df.js"
+  "/syllable_for_gradeschooler/precache-manifest.29d628aef0a564b4d74e2a738b715f0f.js"
 );
 
 self.addEventListener('message', (event) => {

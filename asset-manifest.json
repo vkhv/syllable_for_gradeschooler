@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/syllable_for_gradeschooler/static/css/main.9faac7db.chunk.css",
-    "main.js": "/syllable_for_gradeschooler/static/js/main.8ebf49d3.chunk.js",
-    "main.js.map": "/syllable_for_gradeschooler/static/js/main.8ebf49d3.chunk.js.map",
+    "main.js": "/syllable_for_gradeschooler/static/js/main.c70618a7.chunk.js",
+    "main.js.map": "/syllable_for_gradeschooler/static/js/main.c70618a7.chunk.js.map",
     "runtime-main.js": "/syllable_for_gradeschooler/static/js/runtime-main.ae6db052.js",
     "runtime-main.js.map": "/syllable_for_gradeschooler/static/js/runtime-main.ae6db052.js.map",
-    "static/js/2.7a3881d5.chunk.js": "/syllable_for_gradeschooler/static/js/2.7a3881d5.chunk.js",
-    "static/js/2.7a3881d5.chunk.js.map": "/syllable_for_gradeschooler/static/js/2.7a3881d5.chunk.js.map",
+    "static/js/2.6e687b49.chunk.js": "/syllable_for_gradeschooler/static/js/2.6e687b49.chunk.js",
+    "static/js/2.6e687b49.chunk.js.map": "/syllable_for_gradeschooler/static/js/2.6e687b49.chunk.js.map",
     "index.html": "/syllable_for_gradeschooler/index.html",
-    "precache-manifest.7934c14ea206075929bfde7baa6c12df.js": "/syllable_for_gradeschooler/precache-manifest.7934c14ea206075929bfde7baa6c12df.js",
+    "precache-manifest.29d628aef0a564b4d74e2a738b715f0f.js": "/syllable_for_gradeschooler/precache-manifest.29d628aef0a564b4d74e2a738b715f0f.js",
     "service-worker.js": "/syllable_for_gradeschooler/service-worker.js",
     "static/css/main.9faac7db.chunk.css.map": "/syllable_for_gradeschooler/static/css/main.9faac7db.chunk.css.map",
-    "static/js/2.7a3881d5.chunk.js.LICENSE.txt": "/syllable_for_gradeschooler/static/js/2.7a3881d5.chunk.js.LICENSE.txt"
+    "static/js/2.6e687b49.chunk.js.LICENSE.txt": "/syllable_for_gradeschooler/static/js/2.6e687b49.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ae6db052.js",
-    "static/js/2.7a3881d5.chunk.js",
+    "static/js/2.6e687b49.chunk.js",
     "static/css/main.9faac7db.chunk.css",
-    "static/js/main.8ebf49d3.chunk.js"
+    "static/js/main.c70618a7.chunk.js"
   ]
 }
