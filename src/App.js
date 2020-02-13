@@ -11,17 +11,17 @@ function App() {
           {studyState ?
               <StudyPlate syllable={syllable}  /> :
               <>
-          <input className="c-checkbox" type="checkbox" id="checkbox"/>
-              <div className="c-formContainer">
-                  <form className="c-form" action="">
-                      <input className="c-form__input" placeholder="Слог" type="text"
+                <input className="c-checkbox" type="checkbox" id="checkbox"/>
+                    <div className="c-formContainer">
+                        <form className="c-form" action="">
+                            <input className="c-form__input" placeholder="Слог" type="text"
                              pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" required onInput={pickText}/>
-                          <label className="c-form__buttonLabel" htmlFor="checkbox">
+                            <label className="c-form__buttonLabel" htmlFor="checkbox">
                               <button className="c-form__button" type="button" onClick={() => toggleState(true)}>Учить</button>
-                          </label>
+                            </label>
                           <label className="c-form__toggle" htmlFor="checkbox" data-title="Ввести слог"></label>
-                  </form>
-              </div>
+                        </form>
+                    </div>
               </>}
       </header>
     </div>
