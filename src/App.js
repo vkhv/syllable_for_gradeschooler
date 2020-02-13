@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import './App.css';
-import {sample, sampleSize} from 'lodash';
+import {sampleSize} from 'lodash';
 function App() {
     const [syllable, setSyllable] = useState('');
     const [studyState, toggleState] = useState(false);
